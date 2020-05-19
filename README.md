@@ -2,7 +2,7 @@
 
 link to game :
 
-https://sise-web-development-environments.github.io/assignment2-yonatan-omer
+https://oshlomo93.github.io/PACMAN-Game
 
 login info:
 
